@@ -12,3 +12,15 @@ Chapters
 00:59:23 pretraining to post-training
 
 
+part 2
+
+01:01:06 post-training data (conversations)
+01:20:32 hallucinations, tool use, knowledge/working memory
+01:41:46 knowledge of self
+01:46:56 models need tokens to think
+02:01:11 tokenization revisited: models struggle with spelling
+02:04:53 jagged intelligence
+02:07:28 supervised finetuning to reinforcement learning
+02:14:42 reinforcement learning
+
+
