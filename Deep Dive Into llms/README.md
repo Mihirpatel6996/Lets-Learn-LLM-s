@@ -24,3 +24,14 @@ part 2
 02:14:42 reinforcement learning
 
 
+part 3
+
+02:27:47 DeepSeek-R1
+02:42:07 AlphaGo
+02:48:26 reinforcement learning from human feedback (RLHF)
+03:09:39 preview of things to come
+03:15:15 keeping track of LLMs
+03:18:34 where to find LLMs
+03:21:46 grand summary
+
+
